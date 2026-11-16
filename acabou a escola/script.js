@@ -12,7 +12,7 @@ telaLogin.onsubmit = function (e){
         telaLogin.classList.add("escondidp");
         telaFinal.classList.remove("escondido");
     } else {
-        msgErro.textContent= "Usuario ou senha incorretos.";
+        msgErro.textContent= "Usuario ou senha incorretos.";d
     }
 };
 
